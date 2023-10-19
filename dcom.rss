@@ -5,6 +5,16 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Személyre szóló karácsonyfadísz</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202310/szemelyre_szolo_karacsonyfadisz</link>
+<pubDate>Thu, 19 Oct 2023 07:02:24 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>DSTV: kastélymese az MMK-ban</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202310/dstv_katelymese_az_mmk_ban</link>
+<pubDate>Thu, 19 Oct 2023 05:15:47 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Kodály nyomában – koncepció és gyakorlat</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202310/kodaly_nyomaban_koncepcio_es_gyakorlat</link>
@@ -39,11 +49,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202310/mit_csinal_egy_koromdizajner</link>
 <pubDate>Tue, 17 Oct 2023 07:15:25 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: defibrillátor a színháznak</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202310/dstv_defibrillator_a_szinhaznak</link>
-<pubDate>Tue, 17 Oct 2023 05:14:26 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Pumpapálya létesül a volt "vidiben"</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202310/pumpapalya_letesul_a_volt_vidiben</link>
+<pubDate>Thu, 19 Oct 2023 08:30:20 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Személyre szóló karácsonyfadísz</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202310/szemelyre_szolo_karacsonyfadisz</link>
@@ -45,10 +50,5 @@
 <link>https://dunaujvaros.com/hirek/202310/jelentos_osszeget_hagyott_a_csaladok_zsebeben_az_onkormanyzat_dontese</link>
 <pubDate>Tue, 17 Oct 2023 14:06:44 +0000</pubDate>
 <dc:creator>Névtelen</dc:creator></item>
-<item><title>Mit csinál egy körömdizájner?</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202310/mit_csinal_egy_koromdizajner</link>
-<pubDate>Tue, 17 Oct 2023 07:15:25 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

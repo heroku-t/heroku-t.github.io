@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: 10 hét, 1168 kilométer</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202311/dstv_10_het_1168_kilometer</link>
+<pubDate>Wed, 01 Nov 2023 06:21:36 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Logikai parkot avattak a Vasváriban</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202310/logikai_parkot_avattak_a_vasvariban</link>
@@ -24,16 +29,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202310/dstv_szinek_es_evszakok_uj_tarlat_az_mmk_ban</link>
 <pubDate>Tue, 31 Oct 2023 06:13:01 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Egykor volt vasárnapok szép emlékei</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202310/egykor_volt_vasarnapok_szep_emlekei</link>
-<pubDate>Sun, 29 Oct 2023 08:00:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: II. János Pál pápa öröksége</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202310/dstv_ii_janos_pal_papa_oroksege</link>
-<pubDate>Sun, 29 Oct 2023 06:17:38 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: "mesélő tobozok" a múzeumban</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202311/dstv_meselo_tobozok_a_muzeumban</link>
+<pubDate>Fri, 03 Nov 2023 06:12:26 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>XII. évfolyam 44. szám - 2023.11.03.</title>
 <description></description>
 <link>https://dunaujvaros.com/hetilap/2023_11_03</link>
@@ -35,15 +40,5 @@
 <link>https://dunaujvaros.com/hirek/202311/dstv_10_het_1168_kilometer</link>
 <pubDate>Wed, 01 Nov 2023 06:21:36 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
-<item><title>Logikai parkot avattak a Vasváriban</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202310/logikai_parkot_avattak_a_vasvariban</link>
-<pubDate>Tue, 31 Oct 2023 17:10:59 +0000</pubDate>
-<dc:creator>Fábos Zsolt</dc:creator></item>
-<item><title>Ideális játékok a legkisebbeknek</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202310/idealis_jatekok_a_legkisebbeknek</link>
-<pubDate>Tue, 31 Oct 2023 13:30:59 +0000</pubDate>
-<dc:creator>Névtelen</dc:creator></item>
 </channel>
 </rss>

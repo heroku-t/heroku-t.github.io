@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: Halloween parti a Móriczban</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202311/dstv_halloween_parti_a_moriczban</link>
+<pubDate>Mon, 06 Nov 2023 06:16:27 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Feltóti Sándor (1955-2023)</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202311/feltoti_sandor_1955_2023</link>
@@ -30,20 +35,5 @@
 <link>https://dunaujvaros.com/hirek/202311/dunapentele_vilaghaborus_aldozatainak_emleke_elott_tisztelegtek</link>
 <pubDate>Fri, 03 Nov 2023 09:30:58 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: "mesélő tobozok" a múzeumban</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202311/dstv_meselo_tobozok_a_muzeumban</link>
-<pubDate>Fri, 03 Nov 2023 06:12:26 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>XII. évfolyam 44. szám - 2023.11.03.</title>
-<description></description>
-<link>https://dunaujvaros.com/hetilap/2023_11_03</link>
-<pubDate>Fri, 03 Nov 2023 06:00:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>"Dunaújvárosi Estek" – Gálvölgyi Jánossal (galériával)</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202311/dunaujvarosi_estek_galvolgyi_janossal_galeriaval</link>
-<pubDate>Thu, 02 Nov 2023 17:30:07 +0000</pubDate>
-<dc:creator>Fábos Zsolt</dc:creator></item>
 </channel>
 </rss>

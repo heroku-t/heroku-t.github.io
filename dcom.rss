@@ -5,6 +5,16 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Újra működik a gombavizsgáló!</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202311/ujra_mukodik_a_gombavizsgalo</link>
+<pubDate>Sat, 11 Nov 2023 07:30:16 +0000</pubDate>
+<dc:creator>Fábos Zsolt</dc:creator></item>
+<item><title>DSTV: borzongatóan vidám véradás</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202311/dstv_borzongatoan_vidam_veradas</link>
+<pubDate>Sat, 11 Nov 2023 06:15:19 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Vége a Modern Városok Programjának – úszik a külső medence újraépítése is</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202311/vege_a_modern_varosok_programjanak_uszik_a_kulso_medence_ujraepitese_is</link>
@@ -40,15 +50,5 @@
 <link>https://dunaujvaros.com/hirek/202311/latvanyos_epitkezes_folyik_hamarosan_korbetekerhetjuk_a_varost</link>
 <pubDate>Thu, 09 Nov 2023 09:10:31 +0000</pubDate>
 <dc:creator>Fábos Zsolt</dc:creator></item>
-<item><title>DSTV: boszitábor az MMK-ban</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202311/dstv_boszitabor_az_mmk_ban</link>
-<pubDate>Thu, 09 Nov 2023 06:16:10 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Négy évtized a védőnői hivatásban</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202311/negy_evtized_a_vedonoi_hivatasban</link>
-<pubDate>Wed, 08 Nov 2023 15:30:13 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

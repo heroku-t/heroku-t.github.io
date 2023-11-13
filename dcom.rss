@@ -5,6 +5,16 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>50 éves a jégpálya</title>
+<description></description>
+<link>https://dunaujvaros.com/gallery/50_eves_a_jegpalya</link>
+<pubDate>Mon, 13 Nov 2023 07:28:56 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>DSTV: mesés foglalkozás a gyermekkönyvtárban</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202311/dstv_meses_foglalkozas_a_gyermekkonyvtarban</link>
+<pubDate>Mon, 13 Nov 2023 06:18:07 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Itt éltek és dolgoztak – a kezdetektől</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202311/itt_eltek_es_dolgoztak_a_kezdetektol</link>
@@ -35,20 +45,5 @@
 <link>https://dunaujvaros.com/hirek/202311/vege_a_modern_varosok_programjanak_uszik_a_kulso_medence_ujraepitese_is</link>
 <pubDate>Fri, 10 Nov 2023 15:15:48 +0000</pubDate>
 <dc:creator>Fábos Zsolt</dc:creator></item>
-<item><title>DunaKosár Közösség - intézze heti bevásárlását másként!</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202311/dunakosar_kozosseg_intezze_heti_bevasarlasat_maskent</link>
-<pubDate>Fri, 10 Nov 2023 08:10:01 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: Márton nap előtt a Halászcsárdában</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202311/dstv_marton_nap_elott_a_halaszcsardaban</link>
-<pubDate>Fri, 10 Nov 2023 06:13:57 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>XII. évfolyam 45. szám - 2023.11.10.</title>
-<description></description>
-<link>https://dunaujvaros.com/hetilap/2023_11_10</link>
-<pubDate>Fri, 10 Nov 2023 06:00:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: felavatták az elsősöket</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202311/dstv_felavattak_az_elsosoket</link>
+<pubDate>Sun, 19 Nov 2023 06:12:38 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Több tonnányi lom ment a szemétbe</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202311/tobb_tonnanyi_lom_ment_a_szemetbe</link>
@@ -24,6 +29,11 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202311/breking_elmarad_a_csomagtartovasar_ma_delelott</link>
 <pubDate>Sat, 18 Nov 2023 07:04:02 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>Karácsonyi ajándékcsomagok hölgyek számára</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202311/karacsonyi_ajandekcsomagok_holgyek_szamara</link>
+<pubDate>Sat, 18 Nov 2023 07:00:03 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 <item><title>DSTV: új helyen, de üzemel a gombavizsgálat</title>
 <description></description>
@@ -64,11 +74,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202311/dstv_a_sportag_szeretetere_nevelnek</link>
 <pubDate>Thu, 16 Nov 2023 16:30:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Hogyan lesz higiénikus a cicás lakás?</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202311/hogyan_lesz_higienikus_a_cicas_lakas</link>
-<pubDate>Thu, 16 Nov 2023 14:31:05 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

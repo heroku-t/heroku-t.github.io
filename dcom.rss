@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Keresd a fekete dobozt!</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202311/keresd_a_fekete_dobozt</link>
+<pubDate>Tue, 21 Nov 2023 14:45:52 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Helyreállítják a háztömbök falait a Kallósban</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202311/helyreallitjak_a_haztombok_falait_a_kallosban</link>
@@ -39,16 +44,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202311/karacsonyi_ajandekcsomagok_holgyek_szamara</link>
 <pubDate>Sun, 19 Nov 2023 07:00:03 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: felavatták az elsősöket</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202311/dstv_felavattak_az_elsosoket</link>
-<pubDate>Sun, 19 Nov 2023 06:12:38 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Több tonnányi lom ment a szemétbe</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202311/tobb_tonnanyi_lom_ment_a_szemetbe</link>
-<pubDate>Sat, 18 Nov 2023 16:07:06 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

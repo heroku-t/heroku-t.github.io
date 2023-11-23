@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: ünnepre hangoló kincsvadászat</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202311/dstv_unnepre_hangolo_kincsvadaszat</link>
+<pubDate>Thu, 23 Nov 2023 06:18:10 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Miért érdemes fehérjét fogyasztani, ha diétázunk?</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202311/miert_erdemes_feherjet_fogyasztani_ha_dietazunk</link>
@@ -25,15 +30,5 @@
 <link>https://dunaujvaros.com/hirek/202311/helyreallitjak_a_haztombok_falait_a_kallosban</link>
 <pubDate>Tue, 21 Nov 2023 09:10:19 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: Petőfi, a rocksztár</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202311/dstv_petofi_a_rocksztar</link>
-<pubDate>Tue, 21 Nov 2023 06:13:35 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Felújítják a piac tetőszerkezetét, végre végleg megszűnnek a beázások</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202311/felujitjak_a_piac_tetoszerkezetet_vegre_vegleg_megszunnek_a_beazasok</link>
-<pubDate>Mon, 20 Nov 2023 17:00:08 +0000</pubDate>
-<dc:creator>Fábos Zsolt</dc:creator></item>
 </channel>
 </rss>

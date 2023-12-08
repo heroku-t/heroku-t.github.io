@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Újabb tervek az egyenlő esélyekért</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202312/ujabb_tervek_az_egyenlo_eselyekert</link>
+<pubDate>Fri, 08 Dec 2023 09:30:46 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>A költöztetés ára legyen előre fixálva!</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202312/a_koltoztetes_ara_legyen_elore_fixalva</link>
@@ -60,10 +65,5 @@
 <link>https://dunaujvaros.com/hirek/202312/diakolimpiai_dontos_a_szechenyi</link>
 <pubDate>Wed, 06 Dec 2023 12:04:39 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
-<item><title>Építkezés és tervezés a Technikumban</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202312/epitkezes_es_tervezes_a_technikumban</link>
-<pubDate>Wed, 06 Dec 2023 08:45:35 +0000</pubDate>
-<dc:creator>Fábos Zsolt</dc:creator></item>
 </channel>
 </rss>

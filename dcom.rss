@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: találkoztak és daloltak</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202312/dstv_talalkoztak_es_daloltak</link>
+<pubDate>Wed, 13 Dec 2023 06:19:18 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Dunaújvárosi Estek: Róna Péter lesz a vendég</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202312/dunaujvarosi_estek_rona_peter_lesz_a_vendeg</link>
@@ -44,11 +49,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202312/dstv_adomanyozott_az_ovoda</link>
 <pubDate>Mon, 11 Dec 2023 06:20:51 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Szabad Szemmel az ICA-D-ben: "Atonális ragyogás"</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202312/szabad_szemmel_az_ica_d_ben_atonalis_ragyogas</link>
-<pubDate>Sun, 10 Dec 2023 09:15:41 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

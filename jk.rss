@@ -2,22 +2,22 @@
 <channel>
 <title>járókelő</title><description>járókelő honlap</description><link>http://jarokelo.hu</link><atom:link href="http://jarokelo.hu" rel="self" type="application/rss+xml" /><pubDate>2023.12.26</pubDate>
 <item><title>aktivitás</title>
-<description>0 db új aktivitás</description>
+<description>1 db új aktivitás</description>
 <link>https://jarokelo.hu//citizen?tab=active</link>
 <guid>https://jarokelo.hu/citizen?tab=active</guid>
-<pubDate>Tue, 26 Dec 2023 14:10:17 GMT</pubDate>
+<pubDate>Tue, 26 Dec 2023 22:10:16 GMT</pubDate>
 </item>
 <item><title>bejelentés</title>
-<description>1 db új bejelentés</description>
+<description>0 db új bejelentés</description>
 <link>https://jarokelo.hu//citizen?tab=new</link>
 <guid>https://jarokelo.hu/citizen?tab=new</guid>
-<pubDate>Tue, 26 Dec 2023 14:10:17 GMT</pubDate>
+<pubDate>Tue, 26 Dec 2023 22:10:16 GMT</pubDate>
 </item>
 <item><title>hozzászólás</title>
 <description>0 db új hozzászólás</description>
 <link>https://jarokelo.hu//citizen?tab=comment</link>
 <guid>https://jarokelo.hu/citizen?tab=comment</guid>
-<pubDate>Tue, 26 Dec 2023 14:10:17 GMT</pubDate>
+<pubDate>Tue, 26 Dec 2023 22:10:16 GMT</pubDate>
 </item>
 </channel>
 </rss>

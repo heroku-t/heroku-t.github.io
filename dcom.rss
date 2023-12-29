@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: a változás éve volt</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202312/dstv_a_valtozas_eve_volt</link>
+<pubDate>Fri, 29 Dec 2023 13:30:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>DSTV: sikeres év áll a tornászok mögött</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202312/dstv_sikeres_ev_all_a_tornaszok_mogott</link>
@@ -59,16 +64,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202312/elektromos_berendezesek_a_muhelyben</link>
 <pubDate>Sun, 24 Dec 2023 11:10:23 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Boldog, szép karácsonyt, Dunaújváros!</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202312/boldog_szep_karacsonyt_dunaujvaros</link>
-<pubDate>Sun, 24 Dec 2023 09:30:34 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Milyen előnyökkel jár, ha teherautót bérelsz?</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202312/milyen_elonyokkel_jar_ha_teherautot_berelsz</link>
-<pubDate>Sun, 24 Dec 2023 09:04:59 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

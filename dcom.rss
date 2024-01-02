@@ -5,10 +5,20 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: aktív dartsos év</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202401/dstv_aktiv_dartsos_ev</link>
+<pubDate>Tue, 02 Jan 2024 14:00:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Három DFVE-játékos utazik az Eb-re</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202401/harom_dfve_jatekos_utazik_az_eb_re</link>
 <pubDate>Tue, 02 Jan 2024 06:30:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>DSTV: a Vöröskereszt éve</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202401/dstv_a_voroskereszt_eve</link>
+<pubDate>Tue, 02 Jan 2024 06:19:07 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 <item><title>Ennyi volt, mese volt, nem is csépeljük a szót: BÚÉK!</title>
 <description></description>
@@ -44,16 +54,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202312/dstv_a_valtozas_eve_volt</link>
 <pubDate>Fri, 29 Dec 2023 13:30:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV-évértékelők a DO-n: jeles jubileumok 2.</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202312/dstv_evertekelok_a_do_n_jeles_jubileumok_2</link>
-<pubDate>Fri, 29 Dec 2023 06:16:52 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: sikeres év áll a tornászok mögött</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202312/dstv_sikeres_ev_all_a_tornaszok_mogott</link>
-<pubDate>Thu, 28 Dec 2023 13:30:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

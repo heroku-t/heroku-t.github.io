@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: újra építkeznek a röplabdázók</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202401/dstv_ujra_epitkeznek_a_roplabdazok</link>
+<pubDate>Wed, 03 Jan 2024 16:30:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>DSTV: aktív dartsos év</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202401/dstv_aktiv_dartsos_ev</link>
@@ -39,16 +44,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202312/dstv_iden_is_remekeltek_a_birkozok</link>
 <pubDate>Sat, 30 Dec 2023 13:00:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV-évértékelők a DO-n: az óév műtárgyai</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202312/dstv_evertekelok_a_do_n_az_oev_mutargyai</link>
-<pubDate>Sat, 30 Dec 2023 06:21:41 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Ugorjunk át együtt 2024-be!</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202312/ugorjunk_at_egyutt_2024_be</link>
-<pubDate>Fri, 29 Dec 2023 16:30:19 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

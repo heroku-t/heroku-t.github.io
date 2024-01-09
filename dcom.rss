@@ -5,6 +5,16 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Vörös kód él a nagy hideg miatt</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202401/voros_kod_el_a_nagy_hideg_miatt</link>
+<pubDate>Tue, 09 Jan 2024 09:00:24 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>DSTV: mozgalmas év a Vasváriban</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202401/dstv_mozgalmas_ev_a_vasvariban</link>
+<pubDate>Tue, 09 Jan 2024 06:17:29 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Sima győzelemmel negyeddöntős a magyar csapat</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202401/sima_gyozelemmel_negyeddontos_a_magyar_csapat</link>
@@ -29,11 +39,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202401/ujev_es_vizkereszt_unnepe_dunapentelen</link>
 <pubDate>Sat, 06 Jan 2024 15:30:37 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: élménydús esztendő</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202401/dstv_elmenydus_esztendo</link>
-<pubDate>Sat, 06 Jan 2024 06:16:29 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

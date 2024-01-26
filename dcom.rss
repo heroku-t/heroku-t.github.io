@@ -5,10 +5,20 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Somogyi György (1950-2024)</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202401/somogyi_gyorgy_1950_2024</link>
+<pubDate>Fri, 26 Jan 2024 10:00:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>DSTV: változatos évet zárt az ICA-D</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202401/dstv_valtozatos_evet_zart_az_ica_d</link>
 <pubDate>Fri, 26 Jan 2024 07:00:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>XIII. évfolyam 4. szám - 2024.01.26.</title>
+<description></description>
+<link>https://dunaujvaros.com/hetilap/2024_01_26</link>
+<pubDate>Fri, 26 Jan 2024 06:00:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 <item><title>"Rajta, Újváros!": bemutatkoznak a jelöltek – Tóth Kálmán</title>
 <description></description>
@@ -49,11 +59,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202401/munkalehetoseg_eger_szallodaiban_es_ettermeiben</link>
 <pubDate>Wed, 24 Jan 2024 08:30:09 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: a jövő fejlesztései az Innoparkban</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202401/dstv_a_jovo_fejlesztesei_az_innoparkban</link>
-<pubDate>Wed, 24 Jan 2024 06:17:17 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

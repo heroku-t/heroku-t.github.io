@@ -5,6 +5,16 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Isten éltesse még sokáig, Kati néni!</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202401/isten_eltesse_meg_sokaig_kati_neni</link>
+<pubDate>Sat, 27 Jan 2024 07:00:01 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>DSTV: mit csinál a régész?</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202401/dstv_mit_csinal_a_regesz</link>
+<pubDate>Sat, 27 Jan 2024 06:18:17 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Somogyi György (1950-2024)</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202401/somogyi_gyorgy_1950_2024</link>
@@ -44,11 +54,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202401/dstv_a_dkka_tavalyi_eredmenyeirol</link>
 <pubDate>Wed, 24 Jan 2024 16:30:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Mihók Attila: több helyre is hangsúlyt kell fektetni</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202401/mihok_attila_tobb_helyre_is_hangsulyt_kell_fektetni</link>
-<pubDate>Wed, 24 Jan 2024 11:30:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

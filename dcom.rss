@@ -5,6 +5,16 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Jutalomfalat-kisokos</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202402/jutalomfalat_kisokos</link>
+<pubDate>Mon, 19 Feb 2024 08:00:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>Aranyos, kedves kis vendégek a Városházán</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202402/aranyos_kedves_kis_vendegek_a_varoshazan</link>
+<pubDate>Mon, 19 Feb 2024 06:19:45 +0000</pubDate>
+<dc:creator>Fábos Zsolt</dc:creator></item>
 <item><title>Megváltozott a Horgásztanya környezete</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202402/megvaltozott_a_horgasztanya_kornyezete</link>
@@ -55,15 +65,5 @@
 <link>https://dunaujvaros.com/hirek/202402/pinter_tamas_szerint_feszes_de_szocialisan_gondoskodo_koltsegvetes_szuletett</link>
 <pubDate>Fri, 16 Feb 2024 14:00:06 +0000</pubDate>
 <dc:creator>Fábos Zsolt</dc:creator></item>
-<item><title>A Technikum városrész eredményeiről beszéltek, lehetőségeket, terveket egyeztettek</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202402/a_technikum_varosresz_eredmenyeirol_beszeltek_lehetosegeket_terveket_egyeztettek</link>
-<pubDate>Fri, 16 Feb 2024 09:00:00 +0000</pubDate>
-<dc:creator>Fábos Zsolt</dc:creator></item>
-<item><title>Nem tudod, hogy milyen lábbelit vegyél tavaszra? Segítünk!</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202402/nem_tudod_hogy_milyen_labbelit_vegyel_tavaszra_segitunk</link>
-<pubDate>Fri, 16 Feb 2024 08:00:16 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

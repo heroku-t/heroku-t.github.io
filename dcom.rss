@@ -5,6 +5,16 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Nagy munkálatok a Kistemetőben</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202403/nagy_munkalatok_a_kistemetoben</link>
+<pubDate>Sat, 09 Mar 2024 07:15:10 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>DSTV: felsősök farsangja a Móriczban</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202403/dstv_felsosok_farsangja_a_moriczban</link>
+<pubDate>Sat, 09 Mar 2024 06:15:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Dunaújvárosi Estek: Romsics Ignác előadása is telt házat vonzott</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202403/dunaujvarosi_estek_romsics_ignac_eloadasa_is_telt_hazat_vonzott</link>
@@ -55,10 +65,5 @@
 <link>https://dunaujvaros.com/hirek/202403/7_erdekesseg_a_paszianszrol_amirol_valoszinuleg_nem_tudott</link>
 <pubDate>Wed, 06 Mar 2024 15:30:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
-<item><title>Hogyan tovább az új Vasmű út mögött?</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202403/hogyan_tovabb_az_uj_vasmu_ut_mogott</link>
-<pubDate>Wed, 06 Mar 2024 09:30:40 +0000</pubDate>
-<dc:creator>Fábos Zsolt</dc:creator></item>
 </channel>
 </rss>

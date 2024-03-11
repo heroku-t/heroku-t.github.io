@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: adonyi egyesület a múzeumban</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202403/dstv_adonyi_egyesulet_a_muzeumban</link>
+<pubDate>Mon, 11 Mar 2024 06:19:55 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>DSTV: Barkóci Rosti Pál és Pentelei Molnár János emléke a könyvtárban</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202403/dstv_barkoci_rosti_pal_es_pentelei_molnar_janos_emleke_a_konyvtarban</link>
@@ -35,20 +40,5 @@
 <link>https://dunaujvaros.com/hirek/202403/viragokkal_szep_szavakkal_boldog_nonapot</link>
 <pubDate>Fri, 08 Mar 2024 07:15:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: bronzkori kincsek nyomában</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202403/dstv_bronzkori_kincsek_nyomaban</link>
-<pubDate>Fri, 08 Mar 2024 06:16:15 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>XIII. évfolyam 10. szám - 2024.03.08.</title>
-<description></description>
-<link>https://dunaujvaros.com/hetilap/2024_03_08</link>
-<pubDate>Fri, 08 Mar 2024 06:00:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>A szociális szféra és a kulturális szektor szakembereivel egyeztetett az önkormányzat</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202403/a_szocialis_szfera_es_a_kulturalis_szektor_szakembereivel_egyeztetett_az_onkormanyzat</link>
-<pubDate>Thu, 07 Mar 2024 17:00:58 +0000</pubDate>
-<dc:creator>Fábos Zsolt</dc:creator></item>
 </channel>
 </rss>

@@ -5,6 +5,16 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>"Áldott húsvéti ünnepeket kívánok..."</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202403/aldott_husveti_unnepeket_kivanok</link>
+<pubDate>Sun, 31 Mar 2024 06:30:05 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>DSTV: a húsvéti asztal kincsei</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202403/dstv_a_husveti_asztal_kincsei</link>
+<pubDate>Sun, 31 Mar 2024 05:17:30 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>A bölcsődék vezetőivel egyeztettek a feladatokról</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202403/a_bolcsodek_vezetoivel_egyeztettek_a_feladatokrol</link>
@@ -50,15 +60,5 @@
 <link>https://dunaujvaros.com/hirek/202403/dstv_forduljon_psmithhez</link>
 <pubDate>Thu, 28 Mar 2024 06:17:20 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
-<item><title>XIII. évfolyam 13. szám - 2024.03.28.</title>
-<description></description>
-<link>https://dunaujvaros.com/hetilap/2024_03_27</link>
-<pubDate>Thu, 28 Mar 2024 06:00:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Hivatalosan is átadták a bringával közlekedőknek az új kerékpárút-hálózatot</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202403/hivatalosan_is_atadtak_a_bringaval_kozlekedoknek_az_uj_kerekparut_halozatot</link>
-<pubDate>Wed, 27 Mar 2024 17:30:59 +0000</pubDate>
-<dc:creator>Kölesdi Fanni</dc:creator></item>
 </channel>
 </rss>

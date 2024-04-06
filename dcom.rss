@@ -5,6 +5,16 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>"Dunaújvárosi Estek" – Kéri Lászlóval</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202404/dunaujvarosi_estek_keri_laszloval</link>
+<pubDate>Sat, 06 Apr 2024 06:45:00 +0000</pubDate>
+<dc:creator>Fábos Zsolt</dc:creator></item>
+<item><title>DSTV: Harmatka is ünnepelt</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202404/dstv_harmatka_is_unnepelt</link>
+<pubDate>Sat, 06 Apr 2024 05:47:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Születésnapját ünnepli a Duna Dog Center</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202404/szuletesnapjat_unnepli_a_duna_dog_center</link>
@@ -45,15 +55,5 @@
 <link>https://dunaujvaros.com/hirek/202404/dstv_uj_fitneszpark_a_vasvariban</link>
 <pubDate>Wed, 03 Apr 2024 13:00:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: négy felvonás a Petőfiben</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202404/dstv_negy_felvonas_a_petofiben</link>
-<pubDate>Wed, 03 Apr 2024 05:16:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>A dolgozók biztonságáért egyeztettek</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202404/a_dolgozok_biztonsagaert_egyeztettek</link>
-<pubDate>Tue, 02 Apr 2024 16:30:15 +0000</pubDate>
-<dc:creator>Kölesdi Fanni</dc:creator></item>
 </channel>
 </rss>

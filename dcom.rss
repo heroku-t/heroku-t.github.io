@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Már májusban kinyit az élményfürdő</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202404/mar_majusban_kinyit_az_elmenyfurdo</link>
+<pubDate>Tue, 09 Apr 2024 16:00:03 +0000</pubDate>
+<dc:creator>Fábos Zsolt</dc:creator></item>
 <item><title>DSTV: a görögkatolikus iskola is várja a nebulókat</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202404/dstv_a_gorogkatolikus_iskola_is_varja_a_nebulokat</link>
@@ -35,15 +40,5 @@
 <link>https://dunaujvaros.com/hirek/202404/dstv_tojasvadaszat_a_segito_szolgalatnal</link>
 <pubDate>Sun, 07 Apr 2024 05:20:22 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
-<item><title>XIII. évfolyam 14. szám - 2024.04.05.</title>
-<description></description>
-<link>https://dunaujvaros.com/hetilap/2024_04_05</link>
-<pubDate>Sat, 06 Apr 2024 08:33:23 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>"Dunaújvárosi Estek" – Kéri Lászlóval</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202404/dunaujvarosi_estek_keri_laszloval</link>
-<pubDate>Sat, 06 Apr 2024 06:45:00 +0000</pubDate>
-<dc:creator>Fábos Zsolt</dc:creator></item>
 </channel>
 </rss>

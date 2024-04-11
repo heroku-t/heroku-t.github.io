@@ -5,6 +5,16 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Városi mesemondó délelőtt (2024)</title>
+<description></description>
+<link>https://dunaujvaros.com/gallery/varosi_mesemondo_delelott_2024</link>
+<pubDate>Thu, 11 Apr 2024 15:45:41 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>Városőrök járják Dunaújváros utcáit</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202404/varosorok_jarjak_dunaujvaros_utcait</link>
+<pubDate>Thu, 11 Apr 2024 15:30:00 +0000</pubDate>
+<dc:creator>Fábos Zsolt</dc:creator></item>
 <item><title>Május 1-jén rendezik a retro fesztivált</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202404/majus_1_jen_rendezik_a_retro_fesztivalt</link>
@@ -34,16 +44,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202404/mar_majusban_kinyit_az_elmenyfurdo</link>
 <pubDate>Tue, 09 Apr 2024 16:00:03 +0000</pubDate>
-<dc:creator>Fábos Zsolt</dc:creator></item>
-<item><title>DSTV: a görögkatolikus iskola is várja a nebulókat</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202404/dstv_a_gorogkatolikus_iskola_is_varja_a_nebulokat</link>
-<pubDate>Tue, 09 Apr 2024 06:00:44 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Szabó Zsolt: "A jövőt itt és most írjuk"</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202404/szabo_zsolt_a_jovot_itt_es_most_irjuk</link>
-<pubDate>Mon, 08 Apr 2024 16:00:48 +0000</pubDate>
 <dc:creator>Fábos Zsolt</dc:creator></item>
 </channel>
 </rss>

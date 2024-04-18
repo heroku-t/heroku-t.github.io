@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: eredményes birkózók</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202404/dstv_eredmenyes_birkozok</link>
+<pubDate>Thu, 18 Apr 2024 15:30:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>A város közbiztonságáért – három díjazottal</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202404/a_varos_kozbiztonsagaert_harom_dijazottal</link>
@@ -45,10 +50,5 @@
 <link>https://dunaujvaros.com/hirek/202404/dstv_41_eve_javitja_a_labbeliket</link>
 <pubDate>Wed, 17 Apr 2024 05:19:40 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
-<item><title>Szakmai értekezlet a rendőrségen</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202404/szakmai_ertekezlet_a_rendorsegen</link>
-<pubDate>Tue, 16 Apr 2024 08:30:01 +0000</pubDate>
-<dc:creator>Fábos Zsolt</dc:creator></item>
 </channel>
 </rss>

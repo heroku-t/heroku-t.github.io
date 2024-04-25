@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Közösségi akció a Liget közben</title>
+<description></description>
+<link>https://dunaujvaros.com/gallery/kozossegi_akcio_a_liget_kozben</link>
+<pubDate>Thu, 25 Apr 2024 08:43:39 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Hogyan válasszunk megbízható fogorvost?</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202404/hogyan_valasszunk_megbizhato_fogorvost</link>
@@ -49,16 +54,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202404/a_bazislakk_fontossaga_koromapolasi_rutinunkban</link>
 <pubDate>Tue, 23 Apr 2024 12:00:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Megújulnak a parkolók a Liget közben</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202404/megujulnak_a_parkolok_a_liget_kozben</link>
-<pubDate>Tue, 23 Apr 2024 07:00:01 +0000</pubDate>
-<dc:creator>Fábos Zsolt</dc:creator></item>
-<item><title>Milyen esetekben jöhetnek számításba az árnyékoló oldalfalak?</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202404/milyen_esetekben_johetnek_szamitasba_az_arnyekolo_oldalfalak</link>
-<pubDate>Tue, 23 Apr 2024 06:00:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

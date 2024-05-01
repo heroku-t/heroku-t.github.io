@@ -5,6 +5,16 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Sugárúti Fesztivál (2024)</title>
+<description></description>
+<link>https://dunaujvaros.com/gallery/sugaruti_fesztival_2024</link>
+<pubDate>Wed, 01 May 2024 13:34:32 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>DSTV: jótékonysági sportbál</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202405/dstv_jotekonysagi_sportbal</link>
+<pubDate>Wed, 01 May 2024 12:35:52 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>DSTV: játék és fegyelem az oviban</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202405/dstv_jatek_es_fegyelem_az_oviban</link>
@@ -34,16 +44,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202404/dstv_kulonleges_festmenyek</link>
 <pubDate>Mon, 29 Apr 2024 05:21:22 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Új járda, felújított parkolók, újjá varázsolt szabadidős teniszpálya</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202404/uj_jarda_felujitott_parkolok_ujja_varazsolt_szabadidos_teniszpalya</link>
-<pubDate>Sun, 28 Apr 2024 06:30:00 +0000</pubDate>
-<dc:creator>Fábos Zsolt</dc:creator></item>
-<item><title>90 évesen is derűsen, sok boldogságot!</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202404/90_evesen_is_derusen_sok_boldogsagot</link>
-<pubDate>Sun, 28 Apr 2024 05:30:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

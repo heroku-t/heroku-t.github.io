@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>38. Bringatúra</title>
+<description></description>
+<link>https://dunaujvaros.com/gallery/38_bringatura</link>
+<pubDate>Sun, 05 May 2024 08:54:44 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Már elkészült a táncoló figurák makettje</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202405/mar_elkeszult_a_tancolo_figurak_makettje</link>
@@ -64,16 +69,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202405/dstv_a_szabalyos_kerekparozasrol</link>
 <pubDate>Fri, 03 May 2024 06:30:35 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>XIII. évfolyam 18. szám - 2024.05.03.</title>
-<description></description>
-<link>https://dunaujvaros.com/hetilap/2024_05_03</link>
-<pubDate>Fri, 03 May 2024 05:00:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Két döntős hely Riminiben</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202405/ket_dontos_hely_riminiben</link>
-<pubDate>Fri, 03 May 2024 05:00:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

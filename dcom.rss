@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: zongoristák randevúja</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202405/dstv_zongoristak_randevuja</link>
+<pubDate>Mon, 06 May 2024 05:16:28 +0000</pubDate>
+<dc:creator>Névtelen</dc:creator></item>
 <item><title>38. Bringatúra</title>
 <description></description>
 <link>https://dunaujvaros.com/gallery/38_bringatura</link>
@@ -55,10 +60,5 @@
 <link>https://dunaujvaros.com/hirek/202405/a_pecsi_zsolnay_negyed_programjai</link>
 <pubDate>Fri, 03 May 2024 13:00:32 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
-<item><title>Koltai Róbert nálunk már családtagnak számít</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202405/koltai_robert_nalunk_mar_csaladtagnak_szamit</link>
-<pubDate>Fri, 03 May 2024 09:00:00 +0000</pubDate>
-<dc:creator>Fábos Zsolt</dc:creator></item>
 </channel>
 </rss>

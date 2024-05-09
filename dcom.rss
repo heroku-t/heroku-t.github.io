@@ -5,6 +5,16 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Ismerd meg a 18650 akkumulátorokat!</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202405/ismerd_meg_a_18650_akkumulatorokat</link>
+<pubDate>Thu, 09 May 2024 06:30:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>DSTV: gálával ünnepelték a tánc világnapját</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202405/dstv_galaval_unnepeltek_a_tanc_vilagnapjat</link>
+<pubDate>Thu, 09 May 2024 05:18:31 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>DSTV: izgalmas szezon előtt a kispályások</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202405/dstv_izgalmas_szezon_elott_a_kispalyasok</link>
@@ -40,10 +50,5 @@
 <link>https://dunaujvaros.com/hirek/202405/felujitas_var_a_varos_legregebbi_ovodajara</link>
 <pubDate>Mon, 06 May 2024 14:00:18 +0000</pubDate>
 <dc:creator>Fábos Zsolt</dc:creator></item>
-<item><title>DSTV: zongoristák randevúja</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202405/dstv_zongoristak_randevuja</link>
-<pubDate>Mon, 06 May 2024 05:16:28 +0000</pubDate>
-<dc:creator>Névtelen</dc:creator></item>
 </channel>
 </rss>

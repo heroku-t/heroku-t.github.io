@@ -5,6 +5,16 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Testvérpárral erősített a DAB</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202405/testverparral_erositett_a_dab</link>
+<pubDate>Thu, 23 May 2024 05:30:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>Újra az élményfürdőben lesz a nyári napközis tábor bázisa</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202405/ujra_az_elmenyfurdoben_lesz_a_nyari_napkozis_tabor_bazisa</link>
+<pubDate>Wed, 22 May 2024 16:00:02 +0000</pubDate>
+<dc:creator>Fábos Zsolt</dc:creator></item>
 <item><title>Korlátozás is, új parkolók is – a lakók kérésére</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202405/korlatozas_is_uj_parkolok_is_a_lakok_keresere</link>
@@ -40,20 +50,5 @@
 <link>https://dunaujvaros.com/hirek/202405/hogyan_birkozz_meg_a_geometriai_feladatokkal</link>
 <pubDate>Mon, 20 May 2024 06:30:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: bringásreggeli a Városháza téren</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202405/dstv_bringasreggeli_a_varoshaza_teren</link>
-<pubDate>Mon, 20 May 2024 05:20:32 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Ifjú hosszabbítók az Acélbikáknál</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202405/ifju_hosszabbitok_az_acelbikaknal</link>
-<pubDate>Sun, 19 May 2024 16:06:47 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Rendvédelmi nap és felvonulás idén is!</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202405/rendvedelmi_nap_es_felvonulas_iden_is</link>
-<pubDate>Sun, 19 May 2024 15:00:02 +0000</pubDate>
-<dc:creator>Kölesdi Fanni</dc:creator></item>
 </channel>
 </rss>

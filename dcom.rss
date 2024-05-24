@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Energiatároló rendszerek</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202405/energiatarolo_rendszerek</link>
+<pubDate>Fri, 24 May 2024 12:30:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Felmérték a város teljes faállományát</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202405/felmertek_a_varos_teljes_faallomanyat</link>
@@ -60,10 +65,5 @@
 <link>https://dunaujvaros.com/hirek/202405/korlatozas_is_uj_parkolok_is_a_lakok_keresere</link>
 <pubDate>Wed, 22 May 2024 08:00:00 +0000</pubDate>
 <dc:creator>Fábos Zsolt</dc:creator></item>
-<item><title>3 érv, amiért neked is szükséged van egy összecsukható ruhaszárítóra</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202405/3_erv_amiert_neked_is_szukseged_van_egy_osszecsukhato_ruhaszaritora</link>
-<pubDate>Wed, 22 May 2024 07:00:14 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

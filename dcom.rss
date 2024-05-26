@@ -5,6 +5,16 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>A cél a felhasználó- és keresőbarát weboldal</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202405/a_cel_a_felhasznalo_es_keresobarat_weboldal</link>
+<pubDate>Sun, 26 May 2024 06:30:26 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>DSTV: együtt a vészívók ellen</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202405/dstv_egyutt_a_veszivok_ellen</link>
+<pubDate>Sun, 26 May 2024 05:17:32 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Rend & védelem egy seregszemle képein (2024)</title>
 <description></description>
 <link>https://dunaujvaros.com/gallery/rend_vedelem_egy_seregszemle_kepein_2024</link>
@@ -50,10 +60,5 @@
 <link>https://dunaujvaros.com/hirek/202405/kinyitott_az_elmenyfurdo_valtozatlan_arakkal</link>
 <pubDate>Thu, 23 May 2024 16:30:00 +0000</pubDate>
 <dc:creator>Fábos Zsolt</dc:creator></item>
-<item><title>Irány a Parázs-Varázs – de busszal menjen, aki csak teheti!</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202405/irany_a_parazs_varazs</link>
-<pubDate>Thu, 23 May 2024 07:30:01 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

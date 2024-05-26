@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Gyermeknapi meglepetés (2024)</title>
+<description></description>
+<link>https://dunaujvaros.com/gallery/gyermeknapi_meglepetes_2024</link>
+<pubDate>Sun, 26 May 2024 08:52:03 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>A cél a felhasználó- és keresőbarát weboldal</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202405/a_cel_a_felhasznalo_es_keresobarat_weboldal</link>
@@ -45,20 +50,5 @@
 <link>https://dunaujvaros.com/hirek/202405/amit_tudni_kell_errol_a_szembetegsegrol_arpa</link>
 <pubDate>Fri, 24 May 2024 06:30:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: mozgalmas program a lőtéren</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202405/dstv_mozgalmas_program_a_loteren</link>
-<pubDate>Fri, 24 May 2024 05:14:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>XIII. évfolyam 21. szám - 2024.05.24.</title>
-<description></description>
-<link>https://dunaujvaros.com/hetilap/2024_05_24</link>
-<pubDate>Fri, 24 May 2024 05:00:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Kinyitott az élményfürdő, változatlan árakkal!</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202405/kinyitott_az_elmenyfurdo_valtozatlan_arakkal</link>
-<pubDate>Thu, 23 May 2024 16:30:00 +0000</pubDate>
-<dc:creator>Fábos Zsolt</dc:creator></item>
 </channel>
 </rss>

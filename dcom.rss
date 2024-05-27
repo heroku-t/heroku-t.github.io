@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: fényes búcsú a várostól</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202405/dstv_fenyes_bucsu_a_varostol</link>
+<pubDate>Mon, 27 May 2024 05:19:24 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Gyermeknapi meglepetés (2024)</title>
 <description></description>
 <link>https://dunaujvaros.com/gallery/gyermeknapi_meglepetes_2024</link>
@@ -39,16 +44,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202405/energiatarolo_rendszerek</link>
 <pubDate>Fri, 24 May 2024 12:30:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Felmérték a város teljes faállományát</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202405/felmertek_a_varos_teljes_faallomanyat</link>
-<pubDate>Fri, 24 May 2024 07:30:02 +0000</pubDate>
-<dc:creator>Fábos Zsolt</dc:creator></item>
-<item><title>Amit tudni kell erről a szembetegségről: árpa</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202405/amit_tudni_kell_errol_a_szembetegsegrol_arpa</link>
-<pubDate>Fri, 24 May 2024 06:30:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

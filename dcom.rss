@@ -5,6 +5,16 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Mazzag Dániel Dunaújvárosban</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202406/mazzag_daniel_dunaujvarosban</link>
+<pubDate>Sat, 01 Jun 2024 16:01:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>Jubileumi Móricz-gála a Campus Arénában</title>
+<description></description>
+<link>https://dunaujvaros.com/gallery/jubileumi_moricz_gala_a_campus_arenaban</link>
+<pubDate>Sat, 01 Jun 2024 05:45:16 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>DSTV: sárkányok a vízen</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202405/dstv_sarkanyok_a_vizen</link>
@@ -50,10 +60,5 @@
 <link>https://dunaujvaros.com/hirek/202405/hasznos_a_belvarosi_lomtalanitas_csokkent_a_szemet_mennyisege</link>
 <pubDate>Thu, 30 May 2024 07:00:00 +0000</pubDate>
 <dc:creator>Fábos Zsolt</dc:creator></item>
-<item><title>DSTV: a templomnak gyűjtöttek</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202405/dstv_a_templomnak_gyujtottek</link>
-<pubDate>Thu, 30 May 2024 05:18:54 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

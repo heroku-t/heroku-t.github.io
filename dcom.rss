@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Idén is kifogástalan volt a távhőszolgáltatás...</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202406/iden_is_kifogastalan_volt_a_tavhoszolgaltatas</link>
+<pubDate>Mon, 03 Jun 2024 15:30:25 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Szabad Szemmel az ICA-D-ben: "Védelem alatt"</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202406/szabad_szemmel_az_ica_d_ben_vedelem_alatt</link>
@@ -45,10 +50,5 @@
 <link>https://dunaujvaros.com/hirek/202405/mikro_fesztival_nivos_felhozatalra_iden_is</link>
 <pubDate>Fri, 31 May 2024 09:00:05 +0000</pubDate>
 <dc:creator>Kölesdi Fanni</dc:creator></item>
-<item><title>Lakossági fórumon a kutyás ügyek</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202405/lakossagi_forumon_a_kutyas_ugyek</link>
-<pubDate>Fri, 31 May 2024 07:30:00 +0000</pubDate>
-<dc:creator>Fábos Zsolt</dc:creator></item>
 </channel>
 </rss>

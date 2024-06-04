@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Trianon gyászos öröksége</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202406/trianon_gyaszos_oroksege</link>
+<pubDate>Tue, 04 Jun 2024 05:15:51 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Idén is kifogástalan volt a távhőszolgáltatás...</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202406/iden_is_kifogastalan_volt_a_tavhoszolgaltatas</link>
@@ -40,15 +45,5 @@
 <link>https://dunaujvaros.com/gallery/jubileumi_moricz_gala_a_campus_arenaban</link>
 <pubDate>Sat, 01 Jun 2024 05:45:16 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: sárkányok a vízen</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202405/dstv_sarkanyok_a_vizen</link>
-<pubDate>Fri, 31 May 2024 13:00:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>MIKRO Fesztivál: nívós felhozatal idén is</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202405/mikro_fesztival_nivos_felhozatalra_iden_is</link>
-<pubDate>Fri, 31 May 2024 09:00:05 +0000</pubDate>
-<dc:creator>Kölesdi Fanni</dc:creator></item>
 </channel>
 </rss>

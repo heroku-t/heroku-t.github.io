@@ -5,7 +5,17 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
-<item><title>Gász: elhunyt Kovács Péter</title>
+<item><title>Mire jó az impulzusrelé?</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202406/mire_jo_az_impulzusrele</link>
+<pubDate>Sun, 23 Jun 2024 06:30:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>DSTV: inspiráló érzések az MMK-ban</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202406/dstv_inspiralo_erzesek_az_mmk_ban</link>
+<pubDate>Sun, 23 Jun 2024 05:20:09 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>Gyász: elhunyt Kovács Péter</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202406/gasz_elhunyt_kovacs_peter</link>
 <pubDate>Sat, 22 Jun 2024 11:42:47 +0000</pubDate>
@@ -55,15 +65,5 @@
 <link>https://dunaujvaros.com/hetilap/2024_06_21</link>
 <pubDate>Fri, 21 Jun 2024 05:00:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
-<item><title>Garázsvásár (2024)</title>
-<description></description>
-<link>https://dunaujvaros.com/gallery/garazsvasar_2024</link>
-<pubDate>Thu, 20 Jun 2024 15:04:07 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Átvették megbízóleveleiket az újonnan megválasztott önkormányzati képviselők</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202406/atvettek_megbizoleveleiket_az_ujonnan_megvalasztott_onkormanyzati_kepviselok</link>
-<pubDate>Thu, 20 Jun 2024 14:00:11 +0000</pubDate>
-<dc:creator>Fábos Zsolt</dc:creator></item>
 </channel>
 </rss>

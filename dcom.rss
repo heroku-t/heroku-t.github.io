@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: koncert a múzeumkertben</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202406/dstv_koncert_a_muzeumkertben</link>
+<pubDate>Sat, 29 Jun 2024 05:00:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>DSTV: értékelték a szezont</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202406/dstv_ertekeltek_a_szezont</link>
@@ -59,11 +64,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202406/dstv_a_masik_magyarorszag_szomoru_meseje</link>
 <pubDate>Thu, 27 Jun 2024 05:15:38 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Gázkazánok karbantartása, avagy a hosszú élet titka</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202406/gazkazanok_karbantartasa_avagy_a_hosszu_elet_titka</link>
-<pubDate>Wed, 26 Jun 2024 07:00:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

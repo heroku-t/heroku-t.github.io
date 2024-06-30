@@ -5,10 +5,20 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Tombol a kánikula – figyeljünk magunkra és másokra!</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202406/tombol_a_kanikula_figyeljunk_magunkra_es_masokra</link>
+<pubDate>Sun, 30 Jun 2024 06:30:00 +0000</pubDate>
+<dc:creator>Fábos Zsolt</dc:creator></item>
 <item><title>Kovács Zsófia tartalék Bukarestben</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202406/kovacs_zsofia_tartalek_bukarestben</link>
 <pubDate>Sun, 30 Jun 2024 05:30:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>DSTV: cicaterápia a Vasváriban</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202406/dstv_cicaterapia_a_vasvariban</link>
+<pubDate>Sun, 30 Jun 2024 05:16:33 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 <item><title>Múzeumok Éjszakája (2024)</title>
 <description></description>
@@ -55,15 +65,5 @@
 <link>https://dunaujvaros.com/hirek/202406/ma_is_aktiv_hagyomanyorzot_koszontott_az_onkormanyzat</link>
 <pubDate>Thu, 27 Jun 2024 14:00:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: főszerepben a sport</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202406/dstv_foszerepben_a_sport</link>
-<pubDate>Thu, 27 Jun 2024 13:00:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Átadták a Bimmer Parádén összegyűlt felajánlásokat a Napraforgó bölcsinek</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202406/atadtak_a_bimmer_paraden_osszegyult_felajanlasokat_a_napraforgo_bolcsinek</link>
-<pubDate>Thu, 27 Jun 2024 09:00:00 +0000</pubDate>
-<dc:creator>Terdik Péter</dc:creator></item>
 </channel>
 </rss>

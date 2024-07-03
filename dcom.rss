@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>AlfaCity a Szalki-szigeten (2024)</title>
+<description></description>
+<link>https://dunaujvaros.com/gallery/alfacity_a_szalki_szigeten_2024</link>
+<pubDate>Wed, 03 Jul 2024 08:33:26 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Nemes Ferenc életműkiállítása</title>
 <description></description>
 <link>https://dunaujvaros.com/gallery/nemes_ferenc_eletmukiallitasa</link>
@@ -55,10 +60,5 @@
 <link>https://dunaujvaros.com/hirek/202406/ez_am_a_fordulat_kovacs_zsofia_dontozott_es_ezustermes_bukarestben</link>
 <pubDate>Sun, 30 Jun 2024 15:39:19 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
-<item><title>Tombol a kánikula – figyeljünk magunkra és másokra!</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202406/tombol_a_kanikula_figyeljunk_magunkra_es_masokra</link>
-<pubDate>Sun, 30 Jun 2024 06:30:00 +0000</pubDate>
-<dc:creator>Fábos Zsolt</dc:creator></item>
 </channel>
 </rss>

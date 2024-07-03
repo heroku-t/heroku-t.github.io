@@ -5,6 +5,16 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Nemes Ferenc életműkiállítása</title>
+<description></description>
+<link>https://dunaujvaros.com/gallery/nemes_ferenc_eletmukiallitasa</link>
+<pubDate>Wed, 03 Jul 2024 06:48:24 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>DSTV: MMK-tábor – a közlekedés jegyében</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202407/dstv_mmk_tabor_elsokent_a_kozlekedes_jegyeben</link>
+<pubDate>Wed, 03 Jul 2024 05:17:18 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Kovács Zsófia utazhat Párizsba</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202407/kovacs_zsofia_utazhat_parizsba</link>
@@ -50,15 +60,5 @@
 <link>https://dunaujvaros.com/hirek/202406/tombol_a_kanikula_figyeljunk_magunkra_es_masokra</link>
 <pubDate>Sun, 30 Jun 2024 06:30:00 +0000</pubDate>
 <dc:creator>Fábos Zsolt</dc:creator></item>
-<item><title>Kovács Zsófia tartalék Bukarestben</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202406/kovacs_zsofia_tartalek_bukarestben</link>
-<pubDate>Sun, 30 Jun 2024 05:30:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: cicaterápia a Vasváriban</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202406/dstv_cicaterapia_a_vasvariban</link>
-<pubDate>Sun, 30 Jun 2024 05:16:33 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

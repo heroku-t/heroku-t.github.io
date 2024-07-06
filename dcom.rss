@@ -5,11 +5,21 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: Kovács Zsófia már az olimpiára készül</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202407/dstv_kovacs_zsofia_mar_az_olimpiara_keszul</link>
+<pubDate>Sun, 07 Jul 2024 05:30:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>A friss diplomásokat ünnepelték az egyetemen</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202407/a_friss_diplomasokat_unnepeltek_az_egyetemen</link>
 <pubDate>Sat, 06 Jul 2024 06:00:00 +0000</pubDate>
 <dc:creator>Kölesdi Fanni</dc:creator></item>
+<item><title>DSTV: DÖSE Sparring Day</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202407/dstv_dose_sparring_day</link>
+<pubDate>Sat, 06 Jul 2024 05:30:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>DSTV: drámapedagógia az MMK táborában</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202407/dstv_dramapedagogia_az_mmk_taboraban</link>
@@ -65,10 +75,5 @@
 <link>https://dunaujvaros.com/hirek/202407/rendezett_varosban_rendezett_utcakkal_a_lakoknak_is_boven_akad_feladatuk</link>
 <pubDate>Wed, 03 Jul 2024 14:00:22 +0000</pubDate>
 <dc:creator>Terdik Péter</dc:creator></item>
-<item><title>AlfaCity a Szalki-szigeten (2024)</title>
-<description></description>
-<link>https://dunaujvaros.com/gallery/alfacity_a_szalki_szigeten_2024</link>
-<pubDate>Wed, 03 Jul 2024 08:33:26 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

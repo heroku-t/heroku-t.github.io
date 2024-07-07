@@ -5,10 +5,20 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Tűzgyújtási tilalom – fontos tudnivalók</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202407/tuzgyujtasi_tilalom_fontos_tudnivalok</link>
+<pubDate>Sun, 07 Jul 2024 07:30:04 +0000</pubDate>
+<dc:creator>Terdik Péter</dc:creator></item>
 <item><title>DSTV: Kovács Zsófia már az olimpiára készül</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202407/dstv_kovacs_zsofia_mar_az_olimpiara_keszul</link>
 <pubDate>Sun, 07 Jul 2024 05:30:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>DSTV: szabadtéri tanterem a Vasváriban</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202407/dstv_szabadteri_tanterem_a_vasvariban</link>
+<pubDate>Sun, 07 Jul 2024 05:16:21 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 <item><title>Végleges a női vízilabdázók olimpiai csapata</title>
 <description></description>
@@ -70,15 +80,5 @@
 <link>https://dunaujvaros.com/hirek/202407/dstv_a_nevado_miszteriuma</link>
 <pubDate>Thu, 04 Jul 2024 05:16:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
-<item><title>XIII. évfolyam 27. szám - 2024.07.24.</title>
-<description></description>
-<link>https://dunaujvaros.com/hetilap/2024_07_04</link>
-<pubDate>Thu, 04 Jul 2024 05:00:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Rendezett városban, rendezett utcákkal – a lakóknak is bőven akad feladatuk</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202407/rendezett_varosban_rendezett_utcakkal_a_lakoknak_is_boven_akad_feladatuk</link>
-<pubDate>Wed, 03 Jul 2024 14:00:22 +0000</pubDate>
-<dc:creator>Terdik Péter</dc:creator></item>
 </channel>
 </rss>

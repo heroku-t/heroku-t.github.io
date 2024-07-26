@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: élménytábor a Duna partján</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202407/dstv_elmenytabor_a_duna_partjan</link>
+<pubDate>Fri, 26 Jul 2024 05:45:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Megsérült Kovács Zsófia műtött térde</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202407/megserult_kovacs_zsofia_mutott_terde</link>
@@ -69,11 +74,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202407/mikor_valik_szuksegesse_a_butorok_lomtalanitasa</link>
 <pubDate>Tue, 23 Jul 2024 06:30:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Tornászaink is elutaztak Párizsba</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202407/tornaszaink_is_elutaztak_parizsba</link>
-<pubDate>Tue, 23 Jul 2024 05:30:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

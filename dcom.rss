@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Lakástűz a Vasmű úton</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202407/lakastuz_a_vasmu_uton</link>
+<pubDate>Tue, 30 Jul 2024 15:02:19 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Ponterős bekket igazoltak az Acélbikák</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202407/ponteros_bekket_igazoltak_az_acelbikak</link>
@@ -44,16 +49,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202407/dstv_a_felelos_allattartasert</link>
 <pubDate>Sat, 27 Jul 2024 05:15:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: élménytábor a Duna partján</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202407/dstv_elmenytabor_a_duna_partjan</link>
-<pubDate>Fri, 26 Jul 2024 05:45:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Kovács Zsófia nem indul az olimpián</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202407/megserult_kovacs_zsofia_mutott_terde</link>
-<pubDate>Fri, 26 Jul 2024 05:00:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

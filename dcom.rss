@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: táboroztak a Bástya sakkozói is</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202407/dstv_taboroztak_a_bastya_sakkozoi_is</link>
+<pubDate>Wed, 31 Jul 2024 05:18:47 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Lakástűz a Vasmű úton</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202407/lakastuz_a_vasmu_uton</link>
@@ -44,11 +49,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202407/folyamatos_a_szunyoggyerites</link>
 <pubDate>Sat, 27 Jul 2024 12:30:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: a felelős állattartásért</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202407/dstv_a_felelos_allattartasert</link>
-<pubDate>Sat, 27 Jul 2024 05:15:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

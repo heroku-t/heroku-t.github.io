@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: táboroztak a vízilabdázók</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202408/dstv_taboroztak_a_vizilabdazok</link>
+<pubDate>Fri, 02 Aug 2024 13:00:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>DSTV: a Wesley-Da Capo művészeti vonala</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202408/dstv_a_wesley_da_capo_muveszeti_vonala</link>
@@ -54,11 +59,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202407/ponteros_bekket_igazoltak_az_acelbikak</link>
 <pubDate>Tue, 30 Jul 2024 06:00:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: ledes támogatás a Dunaújvárosi Óvodának</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202407/dstv_ledes_tamogatas_a_dunaujvarosi_ovodanak</link>
-<pubDate>Tue, 30 Jul 2024 05:30:09 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

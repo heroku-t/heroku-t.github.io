@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: a kánikula legjobb ellenszere</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202408/dstv_a_kanikula_legjobb_ellenszere</link>
+<pubDate>Sun, 04 Aug 2024 05:10:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>DSTV: református angol tábor</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202408/dstv_reformatus_angol_tabor</link>
@@ -44,11 +49,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202407/nyilt_level_a_liberty_dunaujvaros_menedzsmentjenek</link>
 <pubDate>Wed, 31 Jul 2024 14:30:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: tervek és teendők</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202407/dstv_tervek_es_teendok</link>
-<pubDate>Wed, 31 Jul 2024 13:00:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

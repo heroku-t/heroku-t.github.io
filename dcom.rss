@@ -5,6 +5,16 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: látványos mozgásforma</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202408/dstv_latvanyos_mozgasforma</link>
+<pubDate>Tue, 13 Aug 2024 15:00:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>Tuti tippek önbizalomhiánytól szenvedőknek</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202408/tuti_tippek_onbizalomhianytol_szenvedoknek</link>
+<pubDate>Tue, 13 Aug 2024 13:00:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>ÁSZ-ellenőrzés: stabil pénzügyi helyzet, csökkenő működési költségek</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202408/asz_ellenorzes_stabil_penzugyi_helyzet_csokkeno_mukodesi_koltsegek</link>
@@ -60,10 +70,5 @@
 <link>https://dunaujvaros.com/hirek/202408/gondozni_kell_a_novenyeket_locsolni_es_karbantartani_a_kanikula_idejen</link>
 <pubDate>Sat, 10 Aug 2024 06:30:00 +0000</pubDate>
 <dc:creator>Fábos Zsolt</dc:creator></item>
-<item><title>DSTV: a gitár ereje</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202408/dstv_a_gitar_ereje</link>
-<pubDate>Sat, 10 Aug 2024 05:15:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

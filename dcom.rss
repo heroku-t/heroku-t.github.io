@@ -5,6 +5,16 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Újabb játszóeszközök a szabadstrandon</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202408/ujabb_jatszoeszkozok_a_szabadstrandon</link>
+<pubDate>Sun, 18 Aug 2024 06:30:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>DSTV: tábori értékelés</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202408/dstv_tabori_ertekeles</link>
+<pubDate>Sun, 18 Aug 2024 05:15:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>A táplálkozás szerepe az egészségünk fenntartásában</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202408/a_taplalkozas_szerepe_az_egeszsegunk_fenntartasaban</link>
@@ -64,11 +74,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202408/dstv_fejlodik_a_pentelei_iskola</link>
 <pubDate>Thu, 15 Aug 2024 05:18:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>A virágmintás ruhák kihagyhatatlan darabok</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202408/a_viragmintas_ruhak_kihagyhatatlan_darabok</link>
-<pubDate>Wed, 14 Aug 2024 15:00:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

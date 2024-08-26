@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Mindenki kihozta magából a maximumot</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202408/mindenki_kihozta_magabol_a_maximumot</link>
+<pubDate>Mon, 26 Aug 2024 13:00:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>DSTV: közeleg a tanévkezdés</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202408/dstv_kozeleg_a_tanevkezdes</link>
@@ -59,11 +64,6 @@
 <description></description>
 <link>https://dunaujvaros.com/gallery/augusztalis_a_szalki_szigeten_2024</link>
 <pubDate>Thu, 22 Aug 2024 15:34:43 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: focival ünnepeltek</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202408/dstv_focival_unnepeltek</link>
-<pubDate>Thu, 22 Aug 2024 13:00:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

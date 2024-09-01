@@ -5,6 +5,16 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Hétfőn becsengetnek, sokkal nagyobb forgalom várható az iskolák körül</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202409/hetfon_becsengetnek_sokkal_nagyobb_forgalom_varhato_az_iskolak_korul</link>
+<pubDate>Sun, 01 Sep 2024 07:00:01 +0000</pubDate>
+<dc:creator>Fábos Zsolt</dc:creator></item>
+<item><title>DSTV: iskolára hangolódva</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202409/dstv_iskolara_hangolodva</link>
+<pubDate>Sun, 01 Sep 2024 05:15:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>DSTV: új szezon előtt</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202408/dstv_uj_szezon_elott</link>
@@ -60,15 +70,5 @@
 <link>https://dunaujvaros.com/hirek/202408/halaszthatatlan_temak_a_rendkivuli_kozgyulesen</link>
 <pubDate>Thu, 29 Aug 2024 16:30:00 +0000</pubDate>
 <dc:creator>Fábos Zsolt</dc:creator></item>
-<item><title>Így válasszunk védőtokot az Apple Watch órához</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202408/igy_valasszunk_vedotokot_az_apple_watch_orahoz</link>
-<pubDate>Thu, 29 Aug 2024 14:00:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: készül az új műfüves pálya</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202408/dstv_keszul_az_uj_mufuves_palya</link>
-<pubDate>Thu, 29 Aug 2024 13:00:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

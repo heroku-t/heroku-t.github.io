@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: a mozgás érdekében</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202409/dstv_a_mozgas_erdekeben</link>
+<pubDate>Sun, 01 Sep 2024 14:26:48 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Hétfőn becsengetnek, sokkal nagyobb forgalom várható az iskolák körül</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202409/hetfon_becsengetnek_sokkal_nagyobb_forgalom_varhato_az_iskolak_korul</link>
@@ -65,10 +70,5 @@
 <link>https://dunaujvaros.com/hetilap/2024_08_30</link>
 <pubDate>Fri, 30 Aug 2024 05:00:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
-<item><title>Halaszthatatlan témák a rendkívüli közgyűlésen</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202408/halaszthatatlan_temak_a_rendkivuli_kozgyulesen</link>
-<pubDate>Thu, 29 Aug 2024 16:30:00 +0000</pubDate>
-<dc:creator>Fábos Zsolt</dc:creator></item>
 </channel>
 </rss>

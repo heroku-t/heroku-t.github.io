@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: népdalosok találkoztak</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202409/dstv_nepdalosok_talalkoztak</link>
+<pubDate>Mon, 02 Sep 2024 05:16:09 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>DSTV: a mozgás érdekében</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202409/dstv_a_mozgas_erdekeben</link>
@@ -60,15 +65,5 @@
 <link>https://dunaujvaros.com/hirek/202408/vasarnap_meg_nyitva_de_hetfon_zar_az_elmenyfurdo</link>
 <pubDate>Fri, 30 Aug 2024 07:00:00 +0000</pubDate>
 <dc:creator>Fábos Zsolt</dc:creator></item>
-<item><title>DSTV: ünnepelt a Dunaújvárosi Kosár Közösség</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202408/dstv_unnepelt_a_dunaujvarosi_kosar_kozosseg</link>
-<pubDate>Fri, 30 Aug 2024 05:18:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>XIII. évfolyam 35. szám - 2024.08.30.</title>
-<description></description>
-<link>https://dunaujvaros.com/hetilap/2024_08_30</link>
-<pubDate>Fri, 30 Aug 2024 05:00:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

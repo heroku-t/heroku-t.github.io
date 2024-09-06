@@ -5,10 +5,20 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Elkészült a város legnagyobb kutyafuttatója</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202409/elkeszult_a_varos_legnagyobb_kutyafuttatoja</link>
+<pubDate>Sat, 07 Sep 2024 14:00:00 +0000</pubDate>
+<dc:creator>Fábos Zsolt</dc:creator></item>
 <item><title>DSTV: a Szuperkupáért küzdöttek</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202409/a_szuperkupaert_kuzdottek</link>
 <pubDate>Sat, 07 Sep 2024 13:00:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>DSTV: tanévkezdés előtt beköltözés a Vasváriban</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202409/dstv_tanevkezdes_elott_bekoltozes_a_vasvariban</link>
+<pubDate>Sat, 07 Sep 2024 04:30:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 <item><title>Ünneppel kezdte a 45. tanévét a Dózsa iskola</title>
 <description></description>
@@ -50,10 +60,5 @@
 <link>https://dunaujvaros.com/hirek/202409/ovisokat_es_alsosokat_toboroz_a_dunaujvarosi_vasas_tancegyuttes</link>
 <pubDate>Wed, 04 Sep 2024 14:00:00 +0000</pubDate>
 <dc:creator>Terdik Péter</dc:creator></item>
-<item><title>90 éves lett Sümegi Lajos bácsi</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202409/90_eves_lett_sumegi_lajos_bacsi</link>
-<pubDate>Wed, 04 Sep 2024 07:30:15 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

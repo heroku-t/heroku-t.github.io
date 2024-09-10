@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Iskolakezdési támogatást nyújt az önkormányzat</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202406/iskolakezdesi_tamogatast_nyujt_az_onkormanyzat</link>
+<pubDate>Tue, 10 Sep 2024 07:30:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>DSTV: városképi jelentőségű újrafestések</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202409/dstv_varoskepi_jelentosegu_ujrafestesek</link>
@@ -50,10 +55,5 @@
 <link>https://dunaujvaros.com/hirek/202409/unneppel_kezdte_a_45_tanevet_a_dozsa_iskola</link>
 <pubDate>Fri, 06 Sep 2024 16:00:59 +0000</pubDate>
 <dc:creator>Fábos Zsolt</dc:creator></item>
-<item><title>DSTV: munkában a röplabdázók</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202409/dstv_munkaban_a_roplabdazok</link>
-<pubDate>Fri, 06 Sep 2024 13:00:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

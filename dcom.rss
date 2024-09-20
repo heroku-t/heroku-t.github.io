@@ -5,10 +5,25 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Indul az őszi lomtalanítás sorozata</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202409/indul_az_oszi_lomtalanitas_sorozata</link>
+<pubDate>Fri, 20 Sep 2024 08:30:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Jegyesfotózás, avagy a legújabb trend hódítása</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202409/jegyesfotozas_avagy_a_legujabb_trend_hoditasa</link>
 <pubDate>Fri, 20 Sep 2024 07:00:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>XIII. évfolyam 38. szám - 2024.09.20.</title>
+<description></description>
+<link>https://dunaujvaros.com/hetilap/2024_09_20</link>
+<pubDate>Fri, 20 Sep 2024 05:00:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>DSTV: óvodai kezdés</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202409/dstv_ovodai_kezdes</link>
+<pubDate>Fri, 20 Sep 2024 05:00:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 <item><title>Öt esztendő zárult le a szeptemberi üléssel</title>
 <description></description>
@@ -50,20 +65,5 @@
 <link>https://dunaujvaros.com/hirek/202409/zsambok_lili_intezmenyvezetokent_folytatja_a_szertelen_hazban</link>
 <pubDate>Wed, 18 Sep 2024 13:00:01 +0000</pubDate>
 <dc:creator>Terdik Péter</dc:creator></item>
-<item><title>A szolidaritás és érzékenyítés napjára készülnek</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202409/a_szolidaritas_es_erzekenyites_napjara_keszulnek</link>
-<pubDate>Wed, 18 Sep 2024 07:30:00 +0000</pubDate>
-<dc:creator>Fábos Zsolt</dc:creator></item>
-<item><title>Milyen módon segíthet a hajhullás kezelésében a lézer?</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202409/milyen_modon_segithet_a_hajhullas_kezeleseben_a_lezer</link>
-<pubDate>Wed, 18 Sep 2024 06:30:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: hogyan tovább, vasmű?!</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202409/dstv_hogyan_tovabb_vasmu</link>
-<pubDate>Wed, 18 Sep 2024 05:15:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

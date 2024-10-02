@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: szüreti mulatság</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202410/dstv_szureti_mulatsag</link>
+<pubDate>Wed, 02 Oct 2024 05:15:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Szakemberek találkoztak: a függőségek kerültek a fókuszba</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202410/szakemberek_talalkoztak_a_fuggosegek_kerultek_a_fokuszba</link>
@@ -45,10 +50,5 @@
 <link>https://dunaujvaros.com/hirek/202409/ujra_autovasart_rendeznek_dunaujvarosban</link>
 <pubDate>Mon, 30 Sep 2024 06:00:00 +0000</pubDate>
 <dc:creator>Fábos Zsolt</dc:creator></item>
-<item><title>DSTV: négylábú kedvenc a lakásban</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202409/dstv_negylabu_kedvenc_a_lakasban</link>
-<pubDate>Sun, 29 Sep 2024 05:15:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

@@ -5,6 +5,16 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Tükörképünk, ahogy az időseinkkel bánunk</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202410/tukorkepunk_ahogy_az_idoseinkkel_banunk</link>
+<pubDate>Sat, 05 Oct 2024 07:00:00 +0000</pubDate>
+<dc:creator>Fábos Zsolt</dc:creator></item>
+<item><title>DSTV: bábelőadás a Bartók repertoárján</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202410/dstv_babeloadas_a_bartok_repertoarjan</link>
+<pubDate>Sat, 05 Oct 2024 05:15:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Mozdulj, Dózsa 45!</title>
 <description></description>
 <link>https://dunaujvaros.com/gallery/mozdulj_dozsa_45</link>
@@ -60,15 +70,5 @@
 <link>https://dunaujvaros.com/hirek/202410/dstv_a_regi_jatekok_vilaga</link>
 <pubDate>Thu, 03 Oct 2024 05:18:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
-<item><title>Koncerttel köszönti a szépkorúakat az önkormányzat</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202410/koncerttel_koszonti_a_szepkoruakat_az_onkormanyzat</link>
-<pubDate>Wed, 02 Oct 2024 14:00:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Nyitott templomok napja – Dunaújvárosban is</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202410/nyitott_templomok_napja_dunaujvarosban_is</link>
-<pubDate>Wed, 02 Oct 2024 09:00:00 +0000</pubDate>
-<dc:creator>Fábos Zsolt</dc:creator></item>
 </channel>
 </rss>

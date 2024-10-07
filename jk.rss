@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" ?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>járókelő</title><description>járókelő honlap</description><link>http://jarokelo.hu</link><atom:link href="http://jarokelo.hu" rel="self" type="application/rss+xml" /><pubDate>2024.10.04</pubDate>
+<title>járókelő</title><description>járókelő honlap</description><link>http://jarokelo.hu</link><atom:link href="http://jarokelo.hu" rel="self" type="application/rss+xml" /><pubDate>2024.10.07</pubDate>
 <item><title>aktivitás</title>
 <description>0 db új aktivitás</description>
 <link>https://jarokelo.hu//citizen?tab=active</link>
 <guid>https://jarokelo.hu/citizen?tab=active</guid>
-<pubDate>Fri, 04 Oct 2024 14:10:08 GMT</pubDate>
+<pubDate>Mon, 07 Oct 2024 10:10:07 GMT</pubDate>
 </item>
 <item><title>bejelentés</title>
-<description>1 db új bejelentés</description>
+<description>0 db új bejelentés</description>
 <link>https://jarokelo.hu//citizen?tab=new</link>
 <guid>https://jarokelo.hu/citizen?tab=new</guid>
-<pubDate>Fri, 04 Oct 2024 14:10:08 GMT</pubDate>
+<pubDate>Mon, 07 Oct 2024 10:10:07 GMT</pubDate>
 </item>
 <item><title>hozzászólás</title>
-<description>0 db új hozzászólás</description>
+<description>3 db új hozzászólás</description>
 <link>https://jarokelo.hu//citizen?tab=comment</link>
 <guid>https://jarokelo.hu/citizen?tab=comment</guid>
-<pubDate>Fri, 04 Oct 2024 14:10:08 GMT</pubDate>
+<pubDate>Mon, 07 Oct 2024 10:10:07 GMT</pubDate>
 </item>
 </channel>
 </rss>

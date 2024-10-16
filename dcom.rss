@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: sminktippek a mindennapokra</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202410/dstv_sminktippek_a_mindennapokra</link>
+<pubDate>Wed, 16 Oct 2024 05:17:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Fákat ültettek a Római játszótéren</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202410/fakat_ultettek_a_romai_jatszoteren</link>
@@ -40,10 +45,5 @@
 <link>https://dunaujvaros.com/hirek/202410/ujra_autovasar_volt_dunaujvarosban</link>
 <pubDate>Sun, 13 Oct 2024 07:00:00 +0000</pubDate>
 <dc:creator>Fábos Zsolt</dc:creator></item>
-<item><title>Akit Michael Jackson inspirált...</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202410/akit_michael_jackson_inspiralt</link>
-<pubDate>Sun, 13 Oct 2024 05:15:00 +0000</pubDate>
-<dc:creator>Terdik Péter</dc:creator></item>
 </channel>
 </rss>

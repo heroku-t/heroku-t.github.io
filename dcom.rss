@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: a varázslatos szalagavatókért</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202410/dstv_a_varazslatos_szalagavatokert</link>
+<pubDate>Wed, 23 Oct 2024 05:18:05 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Véget ért a tűzgyújtási tilalom</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202410/veget_ert_a_tuzgyujtasi_tilalom</link>
@@ -59,11 +64,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202410/ezert_bizza_szakemberre_a_riasztorendszer_telepiteset</link>
 <pubDate>Mon, 21 Oct 2024 06:30:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: elsősavató a Lorántffyban</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202410/dstv_elsosavato_a_lorantffyban</link>
-<pubDate>Mon, 21 Oct 2024 05:15:04 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

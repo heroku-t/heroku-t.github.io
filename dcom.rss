@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>XIII. évfolyam 43. szám - 2024.10.25.</title>
+<description></description>
+<link>https://dunaujvaros.com/hetilap/2024_10_25</link>
+<pubDate>Fri, 25 Oct 2024 05:00:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Megkezdte munkáját az új közgyűlés</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202410/megkezdte_munkajat_az_uj_kozgyules</link>
@@ -65,10 +70,5 @@
 <link>https://dunaujvaros.com/hirek/202410/flashmob_az_ujraelesztes_jegyeben_galeriaval</link>
 <pubDate>Tue, 22 Oct 2024 08:00:44 +0000</pubDate>
 <dc:creator>Fábos Zsolt</dc:creator></item>
-<item><title>Közös akció az újraélesztés világnapján</title>
-<description></description>
-<link>https://dunaujvaros.com/gallery/kozos_akcio_az_ujraelesztes_vilagnapjan</link>
-<pubDate>Tue, 22 Oct 2024 07:57:20 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Műfüves pálya átadás</title>
+<description></description>
+<link>https://dunaujvaros.com/gallery/mufuves_palya_atadas</link>
+<pubDate>Fri, 25 Oct 2024 14:30:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Ismét együtt tesznek a zöldebb, élhető jövőért városunkban</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202410/ismet_egyutt_tesznek_a_zoldebb_elheto_jovoert_varosunkban</link>
@@ -59,11 +64,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202410/a_mi_dolgunk_hogy_tovabb_vigyuk_a_langot_galeriaval</link>
 <pubDate>Wed, 23 Oct 2024 16:30:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: a varázslatos szalagavatókért</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202410/dstv_a_varazslatos_szalagavatokert</link>
-<pubDate>Wed, 23 Oct 2024 05:18:05 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

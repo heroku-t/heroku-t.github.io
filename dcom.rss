@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: "A fiú" próbája a Bartókban</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202410/dstv_a_fiu_probaja_a_bartokban</link>
+<pubDate>Mon, 28 Oct 2024 06:15:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Újabb 90 éves polgárt ünnepeltek városunkban</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202410/ujabb_90_eves_polgart_unnepeltek_varosunkban</link>
@@ -45,10 +50,5 @@
 <link>https://dunaujvaros.com/hirek/202410/ismet_egyutt_tesznek_a_zoldebb_elheto_jovoert_varosunkban</link>
 <pubDate>Fri, 25 Oct 2024 07:00:01 +0000</pubDate>
 <dc:creator>Terdik Péter</dc:creator></item>
-<item><title>Hogyan kezelhető az aranyér?</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202410/hogyan_kezelheto_az_aranyer</link>
-<pubDate>Fri, 25 Oct 2024 06:30:01 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

@@ -5,6 +5,16 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Így prezentáljunk egyszerűen és hatékonyan flipchart táblával</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202410/igy_prezentaljunk_egyszeruen_es_hatekonyan_flipchart_tablaval</link>
+<pubDate>Tue, 29 Oct 2024 08:30:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>DSTV: acélszobrok az ICA-D kiállításán</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202410/dstv_acelszobrok_az_ica_d_kiallitasan</link>
+<pubDate>Tue, 29 Oct 2024 06:15:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Sajátjaként óvja, vigyázza a várost</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202410/sajatjakent_ovja_vigyazza_a_varost</link>
@@ -34,21 +44,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202410/dstv_sajtburgerleves_a_falodaban</link>
 <pubDate>Sun, 27 Oct 2024 05:15:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: Hámori Luca Dunaújvárosban</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202410/dstv_hamori_luca_dunaujvarosban</link>
-<pubDate>Sat, 26 Oct 2024 13:00:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Ünnepi Rosti-gála a Bartókban</title>
-<description></description>
-<link>https://dunaujvaros.com/gallery/unnepi_rosti_gala_a_bartokban</link>
-<pubDate>Sat, 26 Oct 2024 06:25:21 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Még manapság is sokan vágynak irodai munkára!</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202410/meg_manapsag_is_sokan_vagynak_irodai_munkara</link>
-<pubDate>Sat, 26 Oct 2024 06:00:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

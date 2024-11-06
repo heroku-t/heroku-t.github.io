@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: beszélgetés Petrás Gáborral</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202411/dstv_beszelgetes_petras_gaborral</link>
+<pubDate>Wed, 06 Nov 2024 16:00:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Életutak – a kezdetektől a nagy döntésekig</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202411/eletutak_a_kezdetektol_a_nagy_dontesekig</link>
@@ -39,11 +44,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202411/halloweeni_boszorkanykonyha</link>
 <pubDate>Mon, 04 Nov 2024 07:00:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: a családi házak piaca</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202411/dstv_a_csaladi_hazak_piaca</link>
-<pubDate>Mon, 04 Nov 2024 06:18:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

@@ -5,6 +5,31 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: focival emlékeztek</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202411/dstv_focival_emlekeztek</link>
+<pubDate>Sat, 09 Nov 2024 11:30:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>Ötven éve fogadták az első olvasót</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202411/otven_eve_fogadtak_az_elso_olvasot</link>
+<pubDate>Sat, 09 Nov 2024 08:00:00 +0000</pubDate>
+<dc:creator>Terdik Péter</dc:creator></item>
+<item><title>A háborúk áldozataira emlékeztek</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202411/a_haboruk_aldozataira_emlekeztek</link>
+<pubDate>Sat, 09 Nov 2024 07:00:00 +0000</pubDate>
+<dc:creator>Fábos Zsolt</dc:creator></item>
+<item><title>Devizapiac - Gyengült pénteken a forint</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202411/devizapiac_gyengult_penteken_a_forint</link>
+<pubDate>Sat, 09 Nov 2024 06:29:02 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>DSTV: a bábok hatalma a Bartókban</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202411/dstv_a_babok_hatalma_a_bartokban</link>
+<pubDate>Sat, 09 Nov 2024 06:15:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Másfélmillió négyzetméteren kell falevelet gyűjteni a város közterein</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202411/masfelmillio_negyzetmeteren_kell_falevelet_gyujteni_a_varos_kozterein</link>
@@ -60,10 +85,5 @@
 <link>https://dunaujvaros.com/hirek/202411/november_26_an_nyit_a_beke_varosreszi_posta</link>
 <pubDate>Thu, 07 Nov 2024 17:00:00 +0000</pubDate>
 <dc:creator>Fábos Zsolt</dc:creator></item>
-<item><title>Matricákat tettek a balesetveszélyes sírokra</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202411/matricakat_tettek_a_balesetveszelyes_sirokra</link>
-<pubDate>Thu, 07 Nov 2024 09:30:02 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

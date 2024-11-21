@@ -5,10 +5,20 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Közvetlen uniós pályázatok: keressük a forrásokat, a tudást és a kapcsolatokat</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202411/kozvetlen_unios_palyazatok_keressuk_a_forrasokat_a_tudast_es_a_kapcsolatokat</link>
+<pubDate>Fri, 22 Nov 2024 09:24:51 +0000</pubDate>
+<dc:creator>Fábos Zsolt</dc:creator></item>
 <item><title>DSTV: szép eredmények a medencében is</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202411/dstv_szep_eredmenyek_a_medenceben_is</link>
 <pubDate>Thu, 21 Nov 2024 14:00:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>A MOHU hat hónap alatt 700 millió palackot gyűjtött össze</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202411/a_mohu_hat_honap_alatt_700_millio_palackot_gyujtott_ossze</link>
+<pubDate>Thu, 21 Nov 2024 11:30:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 <item><title>Feth Katalin kapta idén a "Szociális Munkáért – Dunaújváros" díjat</title>
 <description></description>
@@ -65,10 +75,5 @@
 <link>https://dunaujvaros.com/hirek/202411/veget_ert_a_szoforgato_betuveto_kortars_irodalmi_vetelkedo</link>
 <pubDate>Tue, 19 Nov 2024 15:00:00 +0000</pubDate>
 <dc:creator>Terdik Péter</dc:creator></item>
-<item><title>Mi az a webshopfejlesztő onboarding?</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202411/mi_az_a_webshopfejleszto_onboarding</link>
-<pubDate>Tue, 19 Nov 2024 08:00:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

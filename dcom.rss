@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Újfent tarolt a "gpsz"</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202411/ujfent_tarolt_a_gpsz</link>
+<pubDate>Mon, 25 Nov 2024 15:00:19 +0000</pubDate>
+<dc:creator>Veres Viktória</dc:creator></item>
 <item><title>Keddtől lesz útlezárás a Szórád Márton úton</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202411/keddtol_lesz_utlezaras_a_szorad_marton_uton</link>
@@ -49,16 +54,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202411/mire_ugyeljunk_ha_online_vasarolunk_szamitastechnikai_alkatreszeket</link>
 <pubDate>Sat, 23 Nov 2024 07:30:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: őszbúcsúztató az Intercisa Múzeumban</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202411/dstv_oszbucsuztato_az_intercisa_muzeumban</link>
-<pubDate>Sat, 23 Nov 2024 06:15:09 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: Muskotály Bálint visszatér a ringbe</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202411/dstv_muskotaly_balint_visszater_a_ringbe</link>
-<pubDate>Fri, 22 Nov 2024 16:00:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

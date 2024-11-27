@@ -5,10 +5,20 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Országos sirályszámlálást tartott az MME</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202411/orszagos_siralyszamlalast_tartott_az_mme</link>
+<pubDate>Wed, 27 Nov 2024 10:00:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Kuckó a mozihoz, tér a bulihoz</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202411/kucko_a_mozihoz_ter_a_bulihoz</link>
 <pubDate>Wed, 27 Nov 2024 09:00:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>Egyetemre készülsz? Válaszd a Széchenyi gimit!</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202411/egyetemre_keszulsz_valaszd_a_szechenyi_gimit</link>
+<pubDate>Wed, 27 Nov 2024 07:30:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 <item><title>Megnyílt a Béke városrész postája</title>
 <description></description>
@@ -19,6 +29,11 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202411/dstv_elsosoket_avattak_az_aranyban</link>
 <pubDate>Wed, 27 Nov 2024 06:15:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>Budapesten várják a fiatalokat a Mi a pálya? műszaki pályaválasztó fesztiválon</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202411/budapesten_varjak_a_fiatalokat_a_mi_a_palya_muszaki_palyavalaszto_fesztivalon</link>
+<pubDate>Wed, 27 Nov 2024 06:00:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 <item><title>"Az én otthonom, az én világom" – kiállításmegnyitó</title>
 <description></description>
@@ -64,16 +79,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202411/dstv_palyaorientacio_a_szechenyiben</link>
 <pubDate>Tue, 26 Nov 2024 06:15:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Újfent tarolt a "gpsz"</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202411/ujfent_tarolt_a_gpsz</link>
-<pubDate>Mon, 25 Nov 2024 16:00:00 +0000</pubDate>
-<dc:creator>Veres Viktória</dc:creator></item>
-<item><title>Jó hír a férfiaknak: megvan, mivel veheted le a nőket a lábukról</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202411/jo_hir_a_ferfiaknak_megvan_mivel_veheted_le_a_noket_a_labukrol</link>
-<pubDate>Mon, 25 Nov 2024 14:30:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

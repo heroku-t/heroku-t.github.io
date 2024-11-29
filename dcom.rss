@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: emléktornával tisztelegtek</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202411/dstv_emlektornaval_tisztelegtek</link>
+<pubDate>Fri, 29 Nov 2024 14:00:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>DSTV: iskolanyitogatóval csalogattak</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202411/dstv_iskolanyitogatoval_csalogattak</link>
@@ -59,11 +64,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202411/orszagos_siralyszamlalast_tartott_az_mme</link>
 <pubDate>Wed, 27 Nov 2024 10:00:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Kuckó a mozihoz, tér a bulihoz</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202411/kucko_a_mozihoz_ter_a_bulihoz</link>
-<pubDate>Wed, 27 Nov 2024 09:00:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

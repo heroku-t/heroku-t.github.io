@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: táblavadászok a megelőzésért</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202412/dstv_tablavadaszok_a_megelozesert</link>
+<pubDate>Mon, 02 Dec 2024 07:30:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>DSTV: dózsás kollégák randevúja az iskolában</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202412/dstv_dozsas_kollegak_randevuja_az_iskolaban</link>
@@ -40,15 +45,5 @@
 <link>https://dunaujvaros.com/hirek/202411/dstv_iskolanyitogatoval_csalogattak</link>
 <pubDate>Fri, 29 Nov 2024 06:15:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
-<item><title>XIII. évfolyam 48. szám - 2024.11.29.</title>
-<description></description>
-<link>https://dunaujvaros.com/hetilap/2024_11_29</link>
-<pubDate>Fri, 29 Nov 2024 06:00:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Kezdődik az ünnepváró Adventi Forgatag a Városháza téren</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202411/kezdodik_az_unnepvaro_adventi_forgatag_a_varoshaza_teren</link>
-<pubDate>Thu, 28 Nov 2024 17:00:15 +0000</pubDate>
-<dc:creator>Kölesdi Fanni</dc:creator></item>
 </channel>
 </rss>

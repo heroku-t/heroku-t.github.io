@@ -5,10 +5,20 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>A kulcsi óvodások szerezték a legtöbb találatot</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202412/a_kulcsi_ovodasok_szereztek_a_legtobb_talalatot</link>
+<pubDate>Mon, 09 Dec 2024 14:00:49 +0000</pubDate>
+<dc:creator>Terdik Péter</dc:creator></item>
 <item><title>DSTV: a hitről humorral, a humorról hittel</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202412/dstv_a_hitrol_humorral_a_humorrol_hittel</link>
 <pubDate>Mon, 09 Dec 2024 06:15:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>Reszkessetek, betörők! filmzenekoncert jövőre a Budapest Sportarénában</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202412/reszkessetek_betorok_filmzenekoncert_jovore_a_budapest_sportarenaban</link>
+<pubDate>Mon, 09 Dec 2024 06:00:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 <item><title>60 éve ballagtak a Szórádból</title>
 <description></description>
@@ -50,20 +60,5 @@
 <link>https://dunaujvaros.com/hirek/202412/a_fenyofakbol_karacsonyfak_lettek</link>
 <pubDate>Fri, 06 Dec 2024 14:00:00 +0000</pubDate>
 <dc:creator>Fábos Zsolt</dc:creator></item>
-<item><title>"Amikor belevágtam, ezer helyre mentem el személyesen: nagyon erős tapasztalás volt"</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202412/amikor_belevagtam_ezer_helyre_mentem_el_szemelyesen_nagyon_eros_tapasztalas_volt</link>
-<pubDate>Fri, 06 Dec 2024 08:00:00 +0000</pubDate>
-<dc:creator>Fábos Zsolt</dc:creator></item>
-<item><title>XIII. évfolyam 49. szám - 2024.12.06.</title>
-<description></description>
-<link>https://dunaujvaros.com/hetilap/2024_12_06</link>
-<pubDate>Fri, 06 Dec 2024 06:21:20 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: nyitott nap a Rudasban</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202412/dstv_nyitott_nap_a_rudasban</link>
-<pubDate>Fri, 06 Dec 2024 06:15:15 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

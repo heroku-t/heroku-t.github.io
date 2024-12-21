@@ -5,6 +5,16 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: Aikido Dunaújvárosban</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202412/dstv_aikido_dunaujvarosban</link>
+<pubDate>Sat, 21 Dec 2024 13:00:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>Tüdőrák – bárkit érinthet</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202412/tudorak_barkit_erinthet</link>
+<pubDate>Sat, 21 Dec 2024 12:30:14 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Egyirányú marad a Kallós Dezső utca</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202412/egyiranyu_marad_a_kallos_dezso_utca</link>
@@ -65,15 +75,5 @@
 <link>https://dunaujvaros.com/hirek/202412/amikor_es_ahol_tapinthato_a_szeretet_es_a_boldogsag_erzese</link>
 <pubDate>Thu, 19 Dec 2024 15:00:00 +0000</pubDate>
 <dc:creator>Fábos Zsolt</dc:creator></item>
-<item><title>Dr. Táborosi Éva kapta a Dunaújváros Egészségügyéért díjat</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202412/dr_taborosi_eva_kapta_a_dunaujvaros_egeszsegugyeert_dijat</link>
-<pubDate>Thu, 19 Dec 2024 09:00:12 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Hogyan válasszuk ki a megfelelő bőröndöt az utazáshoz?</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202412/hogyan_valasszuk_ki_a_megfelelo_borondot_az_utazashoz</link>
-<pubDate>Thu, 19 Dec 2024 07:00:25 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

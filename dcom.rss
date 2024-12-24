@@ -5,10 +5,20 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Ha karácsony, akkor újra nemes felajánlás a Tomi bolttól</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202412/ha_karacsony_akkor_ujra_nemes_felajanlas_a_tomi_bolttol</link>
+<pubDate>Tue, 24 Dec 2024 09:00:23 +0000</pubDate>
+<dc:creator>Fábos Zsolt</dc:creator></item>
 <item><title>Az ergonomikus kialakítás hatással van a kényelmünkre</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202412/az_ergonomikus_kialakitas_hatassal_van_a_kenyelmunkre</link>
 <pubDate>Tue, 24 Dec 2024 07:00:02 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>DSTV: ünnepi hangolódás a könyvtárban</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202412/dstv_unnepi_hangolodas_a_konyvtarban</link>
+<pubDate>Tue, 24 Dec 2024 06:30:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 <item><title>A szeretet ünnepe mindenkié (galériával)</title>
 <description></description>
@@ -65,15 +75,5 @@
 <link>https://dunaujvaros.com/hirek/202412/a_moricztol_zengett_a_nagytemplom</link>
 <pubDate>Sat, 21 Dec 2024 14:00:00 +0000</pubDate>
 <dc:creator>Fábos Zsolt</dc:creator></item>
-<item><title>DSTV: Aikido Dunaújvárosban</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202412/dstv_aikido_dunaujvarosban</link>
-<pubDate>Sat, 21 Dec 2024 13:00:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Tüdőrák – bárkit érinthet</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202412/tudorak_barkit_erinthet</link>
-<pubDate>Sat, 21 Dec 2024 12:30:14 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

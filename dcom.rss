@@ -5,10 +5,25 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Boldog új évet, Dunaújváros! (galériával)</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202501/boldog_uj_evet_dunaujvaros</link>
+<pubDate>Thu, 02 Jan 2025 17:00:07 +0000</pubDate>
+<dc:creator>Veres Viktória</dc:creator></item>
 <item><title>DSTV: sikeres évet zárt a DLSZ</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202501/dstv_sikeres_evet_zart_a_dlsz</link>
 <pubDate>Thu, 02 Jan 2025 16:00:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>Szilveszteri mulatság a Városháza téren (galéria)</title>
+<description></description>
+<link>https://dunaujvaros.com/gallery/szilveszteri_mulatsag_a_varoshaza_teren_galeria</link>
+<pubDate>Thu, 02 Jan 2025 12:56:43 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
+<item><title>Elhunyt Keleti Ágnes</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202501/elhunyt_keleti_agnes</link>
+<pubDate>Thu, 02 Jan 2025 10:02:44 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 <item><title>DSTV: színes gyermekkönyvtár</title>
 <description></description>
@@ -49,16 +64,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202412/dstv_tunder_lala_a_bartok_szinpadan</link>
 <pubDate>Mon, 30 Dec 2024 06:15:08 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Boldog születésnap a család körében</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202412/boldog_szuletesnap_a_csalad_koreben</link>
-<pubDate>Sun, 29 Dec 2024 08:00:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: együtt karácsonyoztak a nyugdíjas pedagógusok</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202412/dstv_egyutt_karacsonyoztak_a_nyugdijas_pedagogusok</link>
-<pubDate>Sun, 29 Dec 2024 06:15:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

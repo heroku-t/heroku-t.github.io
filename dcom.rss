@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>DSTV: véradással búcsúztak az évtől Újtelepen</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202501/dstv_veradassal_bucsuztak_az_evtol_ujtelepen</link>
+<pubDate>Sun, 05 Jan 2025 06:15:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>DSTV: minden nap a gyerekekért</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202501/dstv_minden_nap_a_gyerekekert</link>
@@ -54,11 +59,6 @@
 <description></description>
 <link>https://dunaujvaros.com/gallery/szilveszteri_mulatsag_a_varoshaza_teren_galeria</link>
 <pubDate>Thu, 02 Jan 2025 12:56:43 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>Elhunyt Keleti Ágnes</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202501/elhunyt_keleti_agnes</link>
-<pubDate>Thu, 02 Jan 2025 10:02:44 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

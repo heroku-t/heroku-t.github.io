@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Gyászol a gimnázium, elhunyt Hammerl Ferenc</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202501/gyaszol_a_gimnazium_elhunyt_hammerl_ferenc</link>
+<pubDate>Tue, 07 Jan 2025 16:00:00 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>DSTV: Whiskey Kupa a Szögletben</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202501/dstv_whiskey_kupa_a_szogletben</link>
@@ -59,11 +64,6 @@
 <description></description>
 <link>https://dunaujvaros.com/hirek/202501/dstv_paratlan_osszefogas</link>
 <pubDate>Sat, 04 Jan 2025 09:00:00 +0000</pubDate>
-<dc:creator>doszerk</dc:creator></item>
-<item><title>DSTV: gálával búcsúzott az évtől a Vasas</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202501/dstv_galaval_bucsuzott_az_evtol_a_vasas</link>
-<pubDate>Sat, 04 Jan 2025 06:15:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
 </channel>
 </rss>

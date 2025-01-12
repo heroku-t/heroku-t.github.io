@@ -5,6 +5,11 @@
 <language>hu</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <atom:link href="https://dunaujvaros.com/rss" rel="self" type="application/rss+xml" />
+<item><title>Itt a kapitány beszél!</title>
+<description></description>
+<link>https://dunaujvaros.com/hirek/202501/itt_a_kapitany_beszel</link>
+<pubDate>Sun, 12 Jan 2025 13:43:12 +0000</pubDate>
+<dc:creator>doszerk</dc:creator></item>
 <item><title>Folytatódik a a sorozat, Nyirkos Tamás lesz a Dunaújvárosi Estek idei első vendége</title>
 <description></description>
 <link>https://dunaujvaros.com/hirek/202501/folytatodik_a_a_sorozat_nyirkos_tamas_lesz_a_dunaujvarosi_estek_idei_elso_vendege</link>
@@ -65,10 +70,5 @@
 <link>https://dunaujvaros.com/hirek/202501/innovativ_eljarasokat_vezetnek_be_a_daganatos_betegek_kezeleseben_az_szte_n</link>
 <pubDate>Fri, 10 Jan 2025 06:00:00 +0000</pubDate>
 <dc:creator>doszerk</dc:creator></item>
-<item><title>Dunaújváros kenyere: mindig jó helyre kerül a felajánlás!</title>
-<description></description>
-<link>https://dunaujvaros.com/hirek/202501/dunaujvaros_kenyere_mindig_jo_helyre_kerul_a_felajanlas</link>
-<pubDate>Thu, 09 Jan 2025 16:00:00 +0000</pubDate>
-<dc:creator>Veres Viktória</dc:creator></item>
 </channel>
 </rss>
